@@ -17,8 +17,8 @@ Select the TIN Surfaces you want to work, then enter a scale factor. A copy of t
 
 
 *********************************************************
-Portuguese:
-Escala em Z Superfícies TIN, terrenos (do site https://www.cadconcepts.co.nz/resources/z-scale-tin-surfaces)
+Português:
+Escala em Z Superfícies TIN, terrenos
 
 Copia e escala a elevação (valores Z) das Superfícies TIN selecionadas no BricsCAD.
 
@@ -30,7 +30,7 @@ Uso: Selecione as Superfícies TIN com as quais você deseja trabalhar e insira 
 
 *********************************************************
 Español:
-Escala en Z superfícies TIN, terrenos (del sitio https://www.cadconcepts.co.nz/resources/z-scale-tin-surfaces)
+Escala en Z superfícies TIN, terrenos
 
 Copia y escala la elevación (valores Z) de las Superficies TIN seleccionadas en BricsCAD.
 

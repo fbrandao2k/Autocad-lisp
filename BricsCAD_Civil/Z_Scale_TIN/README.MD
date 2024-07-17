@@ -10,7 +10,7 @@ ZZTIN
 Use
 Select the TIN Surfaces you want to work, then enter a scale factor. A copy of the TIN will be created at the given scale on its own layer named after the source TIN Layer suffixed with the scale factor. ‍
 
-![Test Image 1](3DTest.png)
+![Test Image 1](ZZTIN-Flip.gif)
 
 Setup
 Download using the button below.

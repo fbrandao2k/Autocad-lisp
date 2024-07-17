@@ -1,5 +1,5 @@
 Z Scale TIN Surfaces (from https://www.cadconcepts.co.nz/resources/z-scale-tin-surfaces)
-About
+
 Copies and scales the elevation (Z values) of selected BricsCAD TIN Surfaces.
 
 NOTE. You need to have BricsCAD Pro V21 or greater to use this tool.

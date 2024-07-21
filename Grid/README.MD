@@ -5,7 +5,7 @@ To use it AutomaticGrid1:
 -> Load the lisp routine
 -> Draw a rectangle, for example 50x50
 
-![alt text](http://url/to/img.png)
+![alt text](/images/img1.png)
 
 
 -> 

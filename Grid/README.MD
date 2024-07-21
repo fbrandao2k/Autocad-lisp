@@ -17,6 +17,6 @@ The coordinates are also inserted:
 
 ![Coordinates](../Grid/images/img3.JPG)
 
-In BricsCAD, there is the command BIMGRID that draw it automatically, without routines.
+In BricsCAD, there is the command BIMGRID that draws it automatically, without routines.
 
 ![BIMGRID](../Grid/images/img4.JPG)

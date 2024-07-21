@@ -1,5 +1,5 @@
 # Autocad-lisp
-List of routines to automate tasks in AutoCAD and BricsCAD.
+Lista de rotinas para automatizar tarefas:
 
 
 tlen.lsp -> Calcula comprimento total de todos os elementos selecionados no Autocad.

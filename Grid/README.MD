@@ -5,7 +5,7 @@ To use it AutomaticGrid1:
 -> Load the lisp routine
 -> Draw a rectangle, for example 50x50
 
-![Draw Rect](/images/img1.png)
+![Draw Rect](Autocad-lisp/Grid/images/img1.png)
 
 
 -> 

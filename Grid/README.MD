@@ -11,12 +11,12 @@ To use it AutomaticGrid1:
 -> Choose if you want to rotate to North and East (Yes or No)
 -> The grid is done
 
-![Draw Rect](../Grid/images/img2.png)
+![Grid](../Grid/images/img2.JPG)
 
 The coordinates are also inserted:
 
-![Coordinates](../Grid/images/img3.png)
+![Coordinates](../Grid/images/img3.JPG)
 
 In BricsCAD, there is the command BIMGRID that draw it automatically, without routines.
 
-![BIMGRID](../Grid/images/img4.png)
+![BIMGRID](../Grid/images/img4.JPG)

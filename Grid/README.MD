@@ -7,5 +7,16 @@ To use it AutomaticGrid1:
 
 ![Draw Rect](../Grid/images/img1.png)
 
+-> In the Select View, select the rectangle
+-> Choose if you want to rotate to North and East (Yes or No)
+-> The grid is done
 
--> 
+![Draw Rect](../Grid/images/img2.png)
+
+The coordinates are also inserted:
+
+![Draw Rect](../Grid/images/img3.png)
+
+In BricsCAD, there is the command BIMGRID that draw it automatically, without routines.
+
+![Draw Rect](../Grid/images/img4.png)

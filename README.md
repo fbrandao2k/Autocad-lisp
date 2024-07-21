@@ -6,4 +6,4 @@ tlen.lsp -> Calcula comprimento total de todos os elementos selecionados no Auto
 
 BricsCAD Civil -> Z Scale TIN -> Rotina para modificar terrenos, superfícies TIN no BricsCAD.
 
-GridRect -> Draws a grid with the coordinates
+GridRect -> Desenha uma Grid com as coordenadas

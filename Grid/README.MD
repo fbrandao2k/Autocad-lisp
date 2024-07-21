@@ -15,8 +15,8 @@ To use it AutomaticGrid1:
 
 The coordinates are also inserted:
 
-![Draw Rect](../Grid/images/img3.png)
+![Coordinates](../Grid/images/img3.png)
 
 In BricsCAD, there is the command BIMGRID that draw it automatically, without routines.
 
-![Draw Rect](../Grid/images/img4.png)
+![BIMGRID](../Grid/images/img4.png)

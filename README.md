@@ -1,5 +1,7 @@
 # Autocad-lisp
-******************** Português
+******************** 
+Português
+******************** 
 Lista de rotinas para automatizar tarefas:
 
 

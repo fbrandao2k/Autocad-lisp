@@ -10,7 +10,7 @@ BricsCAD Civil -> Z Scale TIN -> Routine to modify terrains, TIN surfaces in Bri
 
 GridRect -> Draws a grid with coordinates.
 
-GraphTransformCAD -> Transforms graphs from Excel spreadsheets into custom CAD entities.
+GraphToCAD -> Transforms graphs from Excel spreadsheets into custom CAD entities.
 
 
 ******************** 
@@ -24,7 +24,7 @@ BricsCAD Civil -> Z Scale TIN -> Rotina para modificar terrenos, superfícies TI
 
 GridRect -> Desenha uma Grid com as coordenadas
 
-GraphTransformCAD -> Transforma gráficos em planilhas Excel em entidades CAD personalizadas
+GraphToCAD -> Transforma gráficos em planilhas Excel em entidades CAD personalizadas
 
 
 ******************** 
@@ -38,4 +38,4 @@ BricsCAD Civil -> Z Scale TIN -> Rutina para modificar terrenos, superficies TIN
 
 GridRect -> Dibuja una cuadrícula con coordenadas.
 
-GraphTransformCAD -> Transforma gráficos de hojas de cálculo de Excel en entidades CAD personalizadas.
+GraphToCAD -> Transforma gráficos de hojas de cálculo de Excel en entidades CAD personalizadas.

@@ -10,9 +10,12 @@ BricsCAD Civil -> Z Scale TIN -> Rotina para modificar terrenos, superfícies TI
 GridRect -> Desenha uma Grid com as coordenadas
 
 GraphTransformCAD -> Transforma gráficos em planilhas Excel em entidades CAD personalizadas
-
-
-******************** English
+/n
+/n
+/n
+******************** 
+English
+******************** 
 List of routines to automate tasks:
 
 tlen.lsp -> Calculates the total length of all selected elements in Autocad.
@@ -24,7 +27,12 @@ GridRect -> Draws a grid with coordinates.
 GraphTransformCAD -> Transforms graphs from Excel spreadsheets into custom CAD entities.
 
 
-******************** Spanish
+/n
+/n
+/n
+******************** 
+Español
+******************** 
 Lista de rutinas para automatizar tareas:
 
 tlen.lsp -> Calcula la longitud total de todos los elementos seleccionados en Autocad.

@@ -4,4 +4,4 @@ LISP routine that creates a VBA routine to import graphs that are converted to C
 
 It can be used, for example, to copy graphs of surveys such as SPT (Standard penetration tests), as CAD entities, and choosing the properties of each entity (layer, color, size,...).
 
-(A video will be uploaded soon to demonstrate this code)
+This video explain how to use this routine: https://youtu.be/GT8lHj-xg6k

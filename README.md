@@ -1,4 +1,4 @@
-# Best Cad-lisp routines
+# Useful Cad-lisp routines
 ******************** 
 
 ## tlen -> Calculates total length of selected elements

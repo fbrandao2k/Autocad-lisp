@@ -1,4 +1,7 @@
 # Block Counter
+
+From ![lee-mac](https://www.lee-mac.com/blockcounter.html)
+
 See also Dynamic Block Counter & Nested Block Counter.
 
 Function Syntax	blkcount / blkcountsettings

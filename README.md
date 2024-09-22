@@ -4,7 +4,7 @@ English
 ******************** 
 List of routines to automate tasks:
 
-## Calculates total elements lenght
+## tlen -> Calculates total length of selected elements
 tlen.lsp
 Calculates the total length of all selected elements in Autocad.
 

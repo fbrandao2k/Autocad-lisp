@@ -16,7 +16,8 @@ The program settings may be configured using the blkcountsettings command; this 
 
 ## Example of Usage
 
-![tlen2](count.gif)
+![Count](https://github.com/user-attachments/assets/fc3c3e1c-3e1f-4e98-a66c-587e94ff490d)
+
 
 
 

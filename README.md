@@ -8,8 +8,7 @@ List of routines to automate tasks:
 
 Calculates the total length of all selected elements in Autocad.
 
-![tlen](https://github.com/user-attachments/assets/b8c76c08-c454-4582-bd25-5538bbfff99b)
-
+![tlen2](https://github.com/user-attachments/assets/93b036cf-a5c6-4bd9-af31-2ad232b18802)
 
 ##BricsCAD Civil -> Z Scale TIN
 Routine to modify terrains, TIN surfaces in BricsCAD.

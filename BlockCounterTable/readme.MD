@@ -16,6 +16,7 @@ The program settings may be configured using the blkcountsettings command; this 
 
 ## Example of Usage
 
+![count.gif](count.gif)
 
 
 

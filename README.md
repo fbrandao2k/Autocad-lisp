@@ -4,19 +4,19 @@ English
 ******************** 
 List of routines to automate tasks:
 
-##tlen.lsp
-
+## Calculates total elements lenght
+tlen.lsp
 Calculates the total length of all selected elements in Autocad.
 
 ![tlen2](https://github.com/user-attachments/assets/93b036cf-a5c6-4bd9-af31-2ad232b18802)
 
-##BricsCAD Civil -> Z Scale TIN
+## BricsCAD Civil -> Z Scale TIN
 Routine to modify terrains, TIN surfaces in BricsCAD.
 
-##GridRect
+## GridRect
 Draws a grid with coordinates.
 
-##GraphToCAD
+## GraphToCAD
 Transforms graphs from Excel spreadsheets into custom CAD entities.
 
 

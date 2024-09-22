@@ -1,14 +1,17 @@
 # Best Cad-lisp routines
 ******************** 
-English
-******************** 
-List of routines to automate tasks:
 
 ## tlen -> Calculates total length of selected elements
 tlen.lsp
 Calculates the total length of all selected elements in Autocad.
 
 ![tlen2](https://github.com/user-attachments/assets/93b036cf-a5c6-4bd9-af31-2ad232b18802)
+
+## CountV1-5.lsp -> Blocks counter (+table generation)
+tlen.lsp
+Calculates the total length of all selected elements in Autocad.
+
+![Count](https://github.com/user-attachments/assets/fc3c3e1c-3e1f-4e98-a66c-587e94ff490d)
 
 ## BricsCAD Civil -> Z Scale TIN
 Routine to modify terrains, TIN surfaces in BricsCAD.

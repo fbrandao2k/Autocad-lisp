@@ -8,7 +8,7 @@ List of routines to automate tasks:
 
 Calculates the total length of all selected elements in Autocad.
 
-[tlen working](tlen.gif)
+![tlen](https://github.com/user-attachments/assets/b8c76c08-c454-4582-bd25-5538bbfff99b)
 
 
 ##BricsCAD Civil -> Z Scale TIN
